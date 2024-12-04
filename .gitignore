@@ -1,2 +1,6 @@
 #ignore large data files from elections Canada
-data/test.txt
+data/candidate_2000_2004_contributors_audt_e.csv
+data/candidate_pre_2000_contributors_e.csv
+data/od_cntrbtn_audt_e.csv
+data/party_annual_1993-2000_contributors_e.csv
+data/party_annual_2000-2004_contributors_e.csv
