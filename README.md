@@ -46,7 +46,9 @@ Further, I have only tried a limited number of models, but using logistic regres
    6. total_contribution(float): the sum of monetary and non_monetary amounts for that entry
    
 3. Code: Separated into 4 .ipynb files and a functions.ipynb which contains the functions used in the other notebooks.  
-4. yml Folder: Contains the .yml files which can be used to create conda environments to run the code files. base_env runs 01-03 and sktime_env runs 04. 
+4. yml Folder: Contains the .yml files which can be used to create conda environments to run the code files. base_env runs 01-03 and sktime_env runs 04.
+5. Visuals Folder: contains the pdf of presentation slides and the plots used in those slides.
+6. .gitignore: Will ignore the raw Elections Canada data if a commmit is initiated as those files are too large for GitHub. 
 
 
 
