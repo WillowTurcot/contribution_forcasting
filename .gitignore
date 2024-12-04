@@ -1,2 +1,2 @@
-#ignore large data directory
-large_data/
+#ignore large data files from elections Canada
+data/test.txt
