@@ -7,7 +7,7 @@ I have taken on the challenge of forecasting contributions to the 4 major politi
 ## The Data
 [Elections Canada](https://www.elections.ca/content.aspx?section=fin&dir=oda&document=index&lang=e) 
 
-Elections Canada provides 5 .csv files containing contributions towards parties and candidates; I imported these data, cleaned and combined them into one dataset with a sorted date time index. Note: to run 01_cleaning.ipynb you must first download the appropriate files from Elections Canada. 
+Elections Canada provides 5 .csv files containing contributions towards parties and candidates; I imported these data, cleaned and combined them into six datasets less than 50MB designed to be combined into one with a sorted date time index. Note: to run 01_cleaning.ipynb you must first download the appropriate files from Elections Canada. 
 
 ## Data Exploration
 
